@@ -50,13 +50,21 @@ ELSED detected: 391 (short) segments
 
 ### Cite
 
+If you use ELSED code, you must cite our Pattern Recognition paper:
+
 ```bibtex
-@misc{suárez2021elsed,
-      title={ELSED: Enhanced Line SEgment Drawing}, 
-      author={Iago Suárez and José M. Buenaposada and Luis Baumela},
-      year={2021},
-      eprint={2108.03144},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{SUAREZ2022,
+title = {ELSED: Enhanced Line SEgment Drawing},
+journal = {Pattern Recognition},
+pages = {108619},
+year = {2022},
+issn = {0031-3203},
+doi = {https://doi.org/10.1016/j.patcog.2022.108619},
+url = {https://www.sciencedirect.com/science/article/pii/S0031320322001005},
+author = {Iago Suárez and José M. Buenaposada and Luis Baumela},
+keywords = {Image edge detection, Efficient Line Segment Detection, Line Segment Detection Evaluation},
 }
 ```
+
+
+
